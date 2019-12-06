@@ -1,0 +1,19 @@
+[
+  {
+    "icon": 1,
+    "text": "Typography",
+    "color": "green"
+  },
+
+  {
+    "icon": 2,
+    "text": "Icon set",
+    "color": "blue"
+  },
+
+  {
+    "icon": 3,
+    "text": "Accurate",
+    "color": "red"
+  }
+]
