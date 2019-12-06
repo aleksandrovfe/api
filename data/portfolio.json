@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "projectImg": "../img/projectImg1.png",
+    "projectSign": "Art Ocean",
+    "projectDescription": "Photography, art, nature"
+  },
+
+  {
+    "id": 2,
+    "projectImg": "../img/projectImg2.png",
+    "projectSign": "City guide",
+    "projectDescription": "Photography, city, way"
+  },
+
+  {
+    "id": 3,
+    "projectImg": "../img/projectImg3.png",
+    "projectSign": "Mountains",
+    "projectDescription": "Art, hiking"
+  }
+]
