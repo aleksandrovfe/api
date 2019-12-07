@@ -18,5 +18,19 @@
     "projectImg": "../img/projectImg3.png",
     "projectSign": "Mountains",
     "projectDescription": "Art, hiking"
+  },
+
+  {
+    "id": 4,
+    "projectImg": "../img/projectImg4.png",
+    "projectSign": "Сyberpunk",
+    "projectDescription": "Art, Inspiration"
+  },
+
+  {
+    "id": 5,
+    "projectImg": "../img/projectImg5.png",
+    "projectSign": "Steampunk",
+    "projectDescription": "Art, power"
   }
 ]
