@@ -3,34 +3,39 @@
     "id": 1,
     "projectImg": "../img/projectImg1.png",
     "projectSign": "Art Ocean",
-    "projectDescription": "Photography, art, nature"
+    "projectDescription": "Photography, art, nature",
+    "visible": "Yes"
   },
 
   {
     "id": 2,
     "projectImg": "../img/projectImg2.png",
     "projectSign": "City guide",
-    "projectDescription": "Photography, city, way"
+    "projectDescription": "Photography, city, way",
+    "visible": "Yes"
   },
 
   {
     "id": 3,
     "projectImg": "../img/projectImg3.png",
     "projectSign": "Mountains",
-    "projectDescription": "Art, hiking"
+    "projectDescription": "Art, hiking",
+    "visible": "Yes"
   },
 
   {
     "id": 4,
     "projectImg": "../img/projectImg4.png",
     "projectSign": "Сyberpunk",
-    "projectDescription": "Art, Inspiration"
+    "projectDescription": "Art, Inspiration",
+    "visible": "No"
   },
 
   {
     "id": 5,
     "projectImg": "../img/projectImg5.png",
     "projectSign": "Steampunk",
-    "projectDescription": "Art, power"
+    "projectDescription": "Art, power",
+    "visible": "No"
   }
 ]
