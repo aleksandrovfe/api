@@ -3,39 +3,69 @@
     "id": 1,
     "projectImg": "../img/projectImg1.png",
     "projectSign": "Art Ocean",
-    "projectDescription": "Photography, art, nature",
-    "visible": "Yes"
+    "projectDescription": "Photography, art, nature"
   },
 
   {
     "id": 2,
     "projectImg": "../img/projectImg2.png",
     "projectSign": "City guide",
-    "projectDescription": "Photography, city, way",
-    "visible": "Yes"
+    "projectDescription": "Photography, city, way"
   },
 
   {
     "id": 3,
     "projectImg": "../img/projectImg3.png",
     "projectSign": "Mountains",
-    "projectDescription": "Art, hiking",
-    "visible": "Yes"
+    "projectDescription": "Art, hiking"
   },
 
   {
     "id": 4,
     "projectImg": "../img/projectImg4.png",
     "projectSign": "Сyberpunk",
-    "projectDescription": "Art, Inspiration",
-    "visible": "No"
+    "projectDescription": "Art, Inspiration"
   },
 
   {
     "id": 5,
     "projectImg": "../img/projectImg5.png",
     "projectSign": "Steampunk",
-    "projectDescription": "Art, power",
-    "visible": "No"
+    "projectDescription": "Art, power"
+  },
+
+  {
+    "id": 6,
+    "projectImg": "../img/projectImg6.png",
+    "projectSign": "Art Ocean",
+    "projectDescription": "Art, power"
+  },
+
+  {
+    "id": 7,
+    "projectImg": "../img/projectImg7.png",
+    "projectSign": "New Year",
+    "projectDescription": "Photography, art, nature"
+  },
+
+  {
+    "id": 8,
+    "projectImg": "../img/projectImg8.png",
+    "projectSign": "New York",
+    "projectDescription": "Photography, art, nature"
+  },
+
+  {
+    "id": 9,
+    "projectImg": "../img/projectImg9.png",
+    "projectSign": "Cars",
+    "projectDescription": "Photography, art, nature"
+  },
+
+  {
+    "id": 10,
+    "projectImg": "../img/projectImg10.png",
+    "projectSign": "Animals",
+    "projectDescription": "Photography, art, nature"
   }
 ]
