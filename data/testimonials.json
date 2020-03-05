@@ -4,7 +4,7 @@
     "name": "Oda Martin",
     "position": "Product desgner",
     "phrase": "I am excited about it! We move at a fast pace. I’m always working on something.",
-    "avatar": "./img/avatarImg1.png"
+    "avatar": "./FirstPage/img/avatarImg1.png"
   },
 
   {
@@ -12,7 +12,7 @@
     "name": "Patric Oda",
     "position": "Product desgner",
     "phrase": "I’m always working on something. We move at a fast pace. I am excited about it!",
-    "avatar": "./img/avatarImg2.png"
+    "avatar": "./FirstPage/img/avatarImg2.png"
   },
 
   {
@@ -20,7 +20,7 @@
     "name": "Oda Martin",
     "position": "Product desgner",
     "phrase": "We move at a fast pace. I am excited about it! I’m always working on something.",
-    "avatar": "./img/avatarImg3.png"
+    "avatar": "./FirstPage/img/avatarImg3.png"
   },
 
   {
@@ -28,6 +28,6 @@
     "name": "Ronn Oda",
     "position": "Product desgner",
     "phrase": "I’m always working on something. I am excited about it! We move at a fast pace.",
-    "avatar": "./img/avatarImg4.png"
+    "avatar": "./FirstPage/img/avatarImg4.png"
   }
 ]
