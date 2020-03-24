@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "firstName": "Aleksandr",
+    "secondName": "Aleksandrov",
+    "city": "Dnepr",
+    "age": "23",
+    "avatar": "https://images.pexels.com/photos/3752652/pexels-photo-3752652.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "profession": "web-dev"
+  },
+  {
+    "id": 2,
+    "firstName": "Erling",
+    "secondName": "Mertens",
+    "city": "Milan",
+    "age": "20",
+    "avatar": "https://images.pexels.com/photos/1172207/pexels-photo-1172207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "profession": "manager"
+  },
+  {
+    "id": 3,
+    "firstName": "Kevin Prince",
+    "secondName": "Lacazet",
+    "city": "London",
+    "age": "30",
+    "avatar": "https://images.pexels.com/photos/842548/pexels-photo-842548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "profession": "finance"
+  },
+  {
+    "id": 4,
+    "firstName": "Martin",
+    "secondName": "McGregor",
+    "city": "Dublin",
+    "age": "25",
+    "avatar": "https://images.pexels.com/photos/3752652/pexels-photo-3752652.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "profession": "police"
+  },
+  {
+    "id": 5,
+    "firstName": "Oda",
+    "secondName": "Williams",
+    "city": "Tokio",
+    "age": "32",
+    "avatar": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "profession": "pilot"
+  }
+]
