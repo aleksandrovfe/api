@@ -6,7 +6,8 @@
     "city": "Dnepr",
     "age": "23",
     "avatar": "https://images.pexels.com/photos/3752652/pexels-photo-3752652.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "profession": "web-dev"
+    "profession": "web-dev",
+    "followed": true
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "city": "Milan",
     "age": "20",
     "avatar": "https://images.pexels.com/photos/1172207/pexels-photo-1172207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "profession": "manager"
+    "profession": "manager",
+    "followed": false
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "city": "London",
     "age": "30",
     "avatar": "https://images.pexels.com/photos/842548/pexels-photo-842548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "profession": "finance"
+    "profession": "finance",
+    "followed": true
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "city": "Dublin",
     "age": "25",
     "avatar": "https://images.pexels.com/photos/3752652/pexels-photo-3752652.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "profession": "police"
+    "profession": "police",
+    "followed": false
   },
   {
     "id": 5,
@@ -42,6 +46,7 @@
     "city": "Tokio",
     "age": "32",
     "avatar": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "profession": "pilot"
+    "profession": "pilot",
+    "followed": true
   }
 ]
